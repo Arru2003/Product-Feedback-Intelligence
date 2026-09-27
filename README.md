@@ -460,17 +460,3 @@ A productionized version of this system could help product teams:
 
 The strongest use case is not simply **automated sentiment prediction**. It is the creation of a repeatable **Voice-of-Customer intelligence layer** that helps product teams decide what deserves deeper investigation.
 
----
-
-## 20. Author
-
-**Arunima Rout**
-
-B.Tech Computer Science & Engineering  
-Software Engineer II | Product & AI/ML Projects
-
----
-
-## License
-
-Add an appropriate license based on how you intend to distribute the code and whether the underlying dataset permits redistribution.
